@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/yuthmika12375" target="blank"><img src="https://img.shields.io/twitter/follow/yuthmika janadeepa?logo=twitter&style=for-the-badge" alt="yuthmika janadeepa" /></a> </p>
 
-- 🔭 I’m currently working on [Expense-Tracker](https://github.com/Janadeepa/Expense-Tracker)
+- 🔭 I’m currently working on [Chatbot](https://github.com/Janadeepa/Chatbot)
 
 - 🌱 I’m currently learning **Python Programming | App design | Web developer | Ethical Hacking**
 
 - 👯 I’m looking to collaborate on [Self-assessment_Tools](https://github.com/Janadeepa/Self-assessment_Tools)
 
-- 🤝 I’m looking for help with [Recipe_Manager](https://github.com/Janadeepa/Recipe_Manager)
+- 🤝 I’m looking for help with [SkillTrack](https://github.com/Janadeepa/SkillTrack)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Janadeepa](https://github.com/Janadeepa)
 
