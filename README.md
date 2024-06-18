@@ -1,7 +1,7 @@
 [![MasterHead](https://img.freepik.com/premium-photo/shamanic-owl-beautiful-image-ai-generated-art_923092-1594.jpg?w=996)](https://github.com/Janadeepa)
 <h1 align="center">Hi 👋, I'm Janadeepa</h1>
 <h3 align="center">A passionate frontend developer from |Sri_lanka|</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janadeepa&label=Profile%20views&color=0e75b6&style=flat" alt="janadeepa" /> </p>
 
 <p align="left"> <a href="https://twitter.com/yuthmika12375" target="blank"><img src="https://img.shields.io/twitter/follow/yuthmika janadeepa?logo=twitter&style=for-the-badge" alt="yuthmika janadeepa" /></a> </p>
