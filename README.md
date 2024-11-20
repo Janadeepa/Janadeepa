@@ -16,6 +16,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Janadeepa](https://github.com/Janadeepa)
 
+- 🤠 my fiverr blog
+[https://www.fiverr.com/s/wkdwR9g](https://www.fiverr.com/s/wkdwR9g)
+
 - 💬 Ask me about **Python Programming | App designer | Web developer & designer | Ethical Hacking Biginer**
 
 - 📫 How to reach me **yuthmikajanadeepa123456@gmail.com**
